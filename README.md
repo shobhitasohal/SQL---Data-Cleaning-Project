@@ -1,2 +1,2 @@
 # SQL---Data-Cleaning-Project
-Performed Data Cleaning on Real Estate Data
+This project demonstrates a comprehensive data cleaning process applied to the Real Estate - housing dataset using SQL. The project covers essential data cleaning techniques such as data standardization, null value imputation, duplicate removal, and data extraction/transformation. SQL concepts including data retrieval, data type conversion, string manipulation, and window functions were utilized. The resulting cleaned dataset is suitable for analyzing sales trends and property values.
