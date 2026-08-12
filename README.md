@@ -37,11 +37,13 @@ The analysis was structured across two phases:
 **Page 1 — Market Overview**
 
 > KPI cards for total transactions and median price · Sales price trend by year · Median price by city · Sales volume by property category
+
 ![Market Overview](PowerBI_dashboard/TN_real_estate_market_overview.png) 
 
 **Page 2 — Sales Analysis**
 
 > YoY sales trend by city · Vacant vs improved property split · Top cities by transaction value · Average price by property category
+
 ![Sales Analysis](PowerBI_dashboard/TN_real_estate_sales_analysis.png)
 
 ---
